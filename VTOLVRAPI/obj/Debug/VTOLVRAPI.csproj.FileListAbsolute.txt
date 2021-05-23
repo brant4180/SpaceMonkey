@@ -1,0 +1,6 @@
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\VTOLVRAPI\bin\Debug\VTOLVRAPI.dll
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\VTOLVRAPI\bin\Debug\VTOLVRAPI.pdb
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\VTOLVRAPI\obj\Debug\VTOLVRAPI.csproj.AssemblyReference.cache
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\VTOLVRAPI\obj\Debug\VTOLVRAPI.csproj.CoreCompileInputs.cache
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\VTOLVRAPI\obj\Debug\VTOLVRAPI.dll
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\VTOLVRAPI\obj\Debug\VTOLVRAPI.pdb

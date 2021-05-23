@@ -1,0 +1,6 @@
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\WarplanesWW1API\bin\Debug\WarplanesWW1API.dll
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\WarplanesWW1API\bin\Debug\WarplanesWW1API.pdb
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\WarplanesWW1API\obj\Debug\WarplanesWW1API.csproj.AssemblyReference.cache
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\WarplanesWW1API\obj\Debug\WarplanesWW1API.csproj.CoreCompileInputs.cache
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\WarplanesWW1API\obj\Debug\WarplanesWW1API.dll
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\WarplanesWW1API\obj\Debug\WarplanesWW1API.pdb

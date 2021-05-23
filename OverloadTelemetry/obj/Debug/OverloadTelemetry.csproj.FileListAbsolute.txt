@@ -1,0 +1,2 @@
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\OverloadTelemetry\obj\Debug\OverloadTelemetry.csproj.AssemblyReference.cache
+C:\Users\brant\Source\Repos\brant4180\SpaceMonkey\OverloadTelemetry\obj\Debug\OverloadTelemetry.csproj.CoreCompileInputs.cache
